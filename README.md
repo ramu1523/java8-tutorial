@@ -1,5 +1,7 @@
 # Modern Java - A Guide to Java 8
 
+http://www.mkyong.com/tutorials/java-8-tutorials/
+
 _If you like this project, please give me a star._ &#9733;
 
 > [“Java is still not dead—and people are starting to figure that out.”](https://twitter.com/mreinhold/status/429603588525281280)
